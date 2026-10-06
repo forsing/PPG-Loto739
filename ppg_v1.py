@@ -215,10 +215,10 @@ def main():
     # parser.add_argument("--csv", required=True)
     parser.add_argument(
     "--csv",
-    default="/Users/4c/Desktop/GHQ/data/loto7_4696_k79.csv",
-    # default="/Users/4c/Desktop/GHQ/data/loto7_4696_k79_loto_2970.csv",
+    default="/data/loto7_4696_k79.csv",
+    # default="/data/loto7_4696_k79_loto_2970.csv",
     
-    # default="/Users/4c/Desktop/GHQ/data/loto7_4696_k79_loto_plus_1726.csv",
+    # default="/data/loto7_4696_k79_loto_plus_1726.csv",
     # Potrebno je najmanje 500 početnih kola pre validacije. Smanji --validation i --test
     )
     
@@ -479,18 +479,18 @@ PPG-INSPIRED PROVERA
 
 Status: NEXT je izračunat, ali prediktivna prednost nije potvrđena ovom proverom.
 
-NEXT: 13 21 23 26 32 36 37
+NEXT: 13 x 23 y 32 z 37
 NEXT bira sedam najviše rangiranih brojeva. Optimizuje modelsku procenu broja pogodaka; ne računa zajedničku verovatnoću tačne sedmorke.
 
 RANGIRANJE BROJEVA ZA NEXT — skorovi nisu verovatnoće
- 1. 26 skor=0.243866 *
+ 1.  x skor=0.243866 *
  2. 37 skor=0.236672 *
- 3. 21 skor=0.222284 *
+ 3.  y skor=0.222284 *
  4. 32 skor=0.222284 *
  5. 13 skor=0.215089 *
  6. 23 skor=0.207895 *
  7. 35 skor=0.207895  
- 8. 36 skor=0.207895 *
+ 8.  z skor=0.207895 *
  9. 39 skor=0.207895  
 10. 02 skor=0.193507  
 11. 11 skor=0.193507  
@@ -589,16 +589,16 @@ PPG-INSPIRED PROVERA
 
 Status: NEXT je izračunat, ali prediktivna prednost nije potvrđena ovom proverom.
 
-NEXT: 02 04 13 21 25 26 35
+NEXT: 02 x 13 y 25 z 35
 NEXT bira sedam najviše rangiranih brojeva. Optimizuje modelsku procenu broja pogodaka; ne računa zajedničku verovatnoću tačne sedmorke.
 
 RANGIRANJE BROJEVA ZA NEXT — skorovi nisu verovatnoće
  1. 02 skor=0.235379 *
- 2. 04 skor=0.224143 *
+ 2.  x skor=0.224143 *
  3. 13 skor=0.224143 *
- 4. 21 skor=0.224143 *
+ 4.  y skor=0.224143 *
  5. 25 skor=0.224143 *
- 6. 26 skor=0.224143 *
+ 6.  z skor=0.224143 *
  7. 35 skor=0.224143 *
  8. 11 skor=0.212907  
  9. 23 skor=0.212907  
@@ -699,15 +699,15 @@ PPG-INSPIRED PROVERA
 
 Status: NEXT je izračunat, ali prediktivna prednost nije potvrđena ovom proverom.
 
-NEXT: 02 11 23 26 32 34 37
+NEXT: 02 x 23 y 32 z 37
 NEXT bira sedam najviše rangiranih brojeva. Optimizuje modelsku procenu broja pogodaka; ne računa zajedničku verovatnoću tačne sedmorke.
 
 RANGIRANJE BROJEVA ZA NEXT — skorovi nisu verovatnoće
  1. 23 skor=0.201585 *
- 2. 34 skor=0.196316 *
+ 2.  z skor=0.196316 *
  3. 02 skor=0.195771 *
- 4. 11 skor=0.195647 *
- 5. 26 skor=0.191568 *
+ 4.  x skor=0.195647 *
+ 5.  y skor=0.191568 *
  6. 37 skor=0.190786 *
  7. 32 skor=0.188268 *
  8. 08 skor=0.188212  
